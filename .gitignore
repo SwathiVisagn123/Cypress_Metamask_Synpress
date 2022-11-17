@@ -1,0 +1,39 @@
+node_modules
+../.bash_history
+        ../.cache/
+        ../.config/
+        ../.gitconfig
+        ../.gitignore
+        ../.jdks/
+        ../.m2/
+        ../.viminfo
+        ../.vscode/
+        ../3D Objects/
+        ../AppData/
+        ../AutomationBDDLearning/
+        ../AutomationTesting/
+        ../Contacts/
+        ../Cypress/.gitignore
+        ../Cypress/README.md
+        ../Downloads/
+        ../Favorites/
+        ../IdeaProjects/
+        ../IntelGraphicsProfiles/
+        ../Links/
+        ../MicrosoftEdgeBackups/
+        ../Music/
+        ../NTUSER.DAT
+        ../NTUSER.DAT{d4a10ce4-90c7-11eb-96fc-ab1f924fef5f}.TM.blf
+        ../NTUSER.DAT{d4a10ce4-90c7-11eb-96fc-ab1f924fef5f}.TMContainer00000000000000000001.regtrans-ms
+        ../NTUSER.DAT{d4a10ce4-90c7-11eb-96fc-ab1f924fef5f}.TMContainer00000000000000000002.regtrans-ms
+        ../OneDrive/
+        ../Saved Games/
+        ../Searches/
+        ../Videos/
+        ../cv/
+        ../gicPracticeHandsOn/
+        ../ntuser.dat.LOG1
+        ../ntuser.dat.LOG2
+        ../ntuser.ini
+        ../package-lock.json
+        ../package.json

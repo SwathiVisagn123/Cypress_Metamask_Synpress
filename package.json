@@ -1,0 +1,15 @@
+{
+  "name": "cypress_metamask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "synpress:run:test": "STABLE-MODE=TRUE synpress run --configFile cypress.config.js --spec ./cypress/e2e/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@synthetixio/synpress": "^3.0.4",
+    "cypress": "^11.1.0"
+  }
+}
